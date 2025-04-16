@@ -47,7 +47,7 @@ QR-Code-Component/
 └── style.css
 ```
 
-## 🙌 Agradecimentos
+## 🙌🏻 Agradecimentos
 
 Agradecimentos ao [Frontend Mentor](https://www.frontendmentor.io) por disponibilizar este desafio.  
 Foi uma excelente oportunidade para reforçar conceitos importantes de HTML e CSS com base em um layout profissional.
