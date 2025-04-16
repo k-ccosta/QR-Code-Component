@@ -13,6 +13,7 @@ body{
     background-color: hsl(212, 45%, 89%);
     color: hsl(218, 44%, 22%);
     display: flex;
+    flex-direction: column;
     align-items: center; /* alinha verticalmente ao centro */
     justify-content: center; /* alinha horizontalmente ao centro */
     min-height: 100vh;
@@ -39,14 +40,23 @@ body{
     padding: 0 0.5rem;
 }
   
-  .card__content h1 {
+.card__content h1 {
     font-size: 1.25rem;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin-bottom: 1rem;
 }
   
-  .card__content p {
+.card__content p {
     font-weight: 400;
     color: hsl(216, 15%, 48%);
+}
+
+footer{
+    margin-top: 1.5rem;
+}
+
+footer a{
+    text-decoration: none;
+    /* color: hsl(218, 44%, 22%); */
 }
